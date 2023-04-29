@@ -1,1 +1,3 @@
-App Info Manager does not collect any information or track you in any way. It does not include analytics and the app does not include the internet permission. All it can do is read your local packages. 
+Privacy Policy
+
+App Info Manager does not collect any information or track you in any way. It does not include analytics and the app does not include the internet permission. All it can do is read your locally installed apps. 
